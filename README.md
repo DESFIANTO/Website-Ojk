@@ -1,6 +1,6 @@
 # Website Ojk
 
-### Compile and Hot-Reload for Development
+### Run Project
 
 ```sh
 npm run dev
